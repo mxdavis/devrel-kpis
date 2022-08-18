@@ -1,4 +1,8 @@
-  <p align="center">
+**Warning** This repository is no longer recommended or maintained and it will soon be marked as archived in Github. Huge thanks to the original authors and contributors for providing this for our community. Should you wish to maintain your own version of this repository, you are welcome to fork this repository and continue developing it there.
+
+---
+
+<p align="center">
     <a href="https://devrel-kpis.com/">
       <img alt="Devrel KPIs" src="https://devrel-kpis.com/logo.svg" width="100" />
     </a>
